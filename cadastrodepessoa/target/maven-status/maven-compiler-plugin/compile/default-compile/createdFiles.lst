@@ -1,9 +1,0 @@
-br\com\cadastrodepessoa\CadastrodepessoaApplication.class
-br\com\cadastrodepessoa\entity\PessoaEntity$PessoaEntityBuilderImpl.class
-br\com\cadastrodepessoa\config\SwaggerConfiguration.class
-br\com\cadastrodepessoa\entity\PessoaEntity.class
-br\com\cadastrodepessoa\service\impl\PessoaServiceImpl.class
-br\com\cadastrodepessoa\repository\PessoaRepository.class
-br\com\cadastrodepessoa\controller\PessoaController.class
-br\com\cadastrodepessoa\entity\PessoaEntity$PessoaEntityBuilder.class
-br\com\cadastrodepessoa\service\PessoaService.class

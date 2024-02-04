@@ -20,7 +20,7 @@ public class EnderecoServiceImpl implements EnderecoService {
     @Transactional
     @Override
     public EnderecoEntity atualizar(Long id, EnderecoEntity endereco) {
-        EnderecoEntity enderecoEntity = repository.findById(id).get();
+       final EnderecoEntity enderecoEntity = repository.findById(id).get();
         enderecoEntity.setId(endereco.getId() == null ? id : endereco.getId());
         return repository.findByNome("");
     }

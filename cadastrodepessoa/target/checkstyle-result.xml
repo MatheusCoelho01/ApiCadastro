@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.9.1">
+<file name="C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\entity\ClienteEntity.java">
+</file>
+<file name="C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\impl\ClienteServiceImpl.java">
+<error line="24" column="23" severity="warning" message="A variável &apos;clienteEntity&apos; deveria ser declarada final." source="com.puppycrawl.tools.checkstyle.checks.coding.FinalLocalVariableCheck"/>
+</file>
+</checkstyle>
