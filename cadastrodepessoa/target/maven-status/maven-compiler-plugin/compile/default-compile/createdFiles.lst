@@ -1,0 +1,15 @@
+br\com\cadastrodepessoa\service\EnderecoService.class
+br\com\cadastrodepessoa\entity\ClienteEntity.class
+br\com\cadastrodepessoa\entity\ClienteEntity$ClienteEntityBuilder.class
+br\com\cadastrodepessoa\entity\EnderecoEntity$EnderecoEntityBuilderImpl.class
+br\com\cadastrodepessoa\entity\EnderecoEntity.class
+br\com\cadastrodepessoa\service\impl\EnderecoServiceImpl.class
+br\com\cadastrodepessoa\repository\EnderecoRepository.class
+br\com\cadastrodepessoa\controller\EnderecoController.class
+br\com\cadastrodepessoa\CadastrodepessoaApplication.class
+br\com\cadastrodepessoa\repository\ClienteRepository.class
+br\com\cadastrodepessoa\entity\ClienteEntity$ClienteEntityBuilderImpl.class
+br\com\cadastrodepessoa\entity\EnderecoEntity$EnderecoEntityBuilder.class
+br\com\cadastrodepessoa\controller\ClienteController.class
+br\com\cadastrodepessoa\service\impl\ClienteServiceImpl.class
+br\com\cadastrodepessoa\service\ClienteService.class

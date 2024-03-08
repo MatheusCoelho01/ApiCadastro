@@ -1,5 +1,5 @@
-#Sun Feb 04 01:17:18 BRT 2024
-configuration*?=2743B45A4E275AA0907B9E6E307DA52BF0F08973
+#Thu Mar 07 22:21:52 BRT 2024
+configuration*?=7C37BCC8E0BA5BA5A49C74734A69E74CE20507D0
 C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\controller\\EnderecoController.java=1707019593365
 C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\EnderecoService.java=1691861707239
 C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\entity\\EnderecoEntity.java=1707019755215
@@ -10,4 +10,4 @@ C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br
 C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\ClienteService.java=1704405863497
 C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\CadastrodepessoaApplication.java=1691167583272
 C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\resources\\application.properties=1692204062003
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\controller\\ClienteController.java=1707019160719
+C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\controller\\ClienteController.java=1707021300852
