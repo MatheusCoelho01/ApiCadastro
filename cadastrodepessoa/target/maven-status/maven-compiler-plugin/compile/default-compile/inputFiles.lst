@@ -1,11 +1,11 @@
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\EnderecoService.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\repository\ClienteRepository.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\impl\ClienteServiceImpl.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\entity\ClienteEntity.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\impl\EnderecoServiceImpl.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\controller\ClienteController.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\repository\EnderecoRepository.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\entity\EnderecoEntity.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\controller\EnderecoController.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\CadastrodepessoaApplication.java
-C:\Users\mathe\IdeaProjects\cadastro\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\ClienteService.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\repository\ClienteRepository.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\controller\ClienteController.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\ClienteService.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\EnderecoService.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\impl\EnderecoServiceImpl.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\CadastrodepessoaApplication.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\entity\ClienteEntity.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\repository\EnderecoRepository.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\service\impl\ClienteServiceImpl.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\controller\EnderecoController.java
+C:\Users\mathe\OneDrive\Área de Trabalho\cliente\cadastrodepessoa\src\main\java\br\com\cadastrodepessoa\entity\EnderecoEntity.java

@@ -1,13 +1,13 @@
-#Thu Mar 07 22:21:52 BRT 2024
-configuration*?=7C37BCC8E0BA5BA5A49C74734A69E74CE20507D0
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\controller\\EnderecoController.java=1707019593365
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\EnderecoService.java=1691861707239
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\entity\\EnderecoEntity.java=1707019755215
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\repository\\ClienteRepository.java=1704405851897
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\entity\\ClienteEntity.java=1707020231751
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\repository\\EnderecoRepository.java=1691861707252
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\impl\\EnderecoServiceImpl.java=1707019786413
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\ClienteService.java=1704405863497
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\CadastrodepessoaApplication.java=1691167583272
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\resources\\application.properties=1692204062003
-C\:\\Users\\mathe\\IdeaProjects\\cadastro\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\controller\\ClienteController.java=1707021300852
+#Sat May 04 16:17:49 BRT 2024
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\repository\\ClienteRepository.java=1714849901382
+configuration*?=C4C51A48E4EEF0E703205625F47799549A11F256
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\impl\\EnderecoServiceImpl.java=1714849901385
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\CadastrodepessoaApplication.java=1714849901377
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\controller\\ClienteController.java=1714849901378
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\repository\\EnderecoRepository.java=1714849901382
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\controller\\EnderecoController.java=1714849901379
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\EnderecoService.java=1714849901384
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\service\\ClienteService.java=1714849901383
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\resources\\application.properties=1714849901386
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\entity\\ClienteEntity.java=1714849901380
+C\:\\Users\\mathe\\OneDrive\\\u00C1rea\ de\ Trabalho\\cliente\\cadastrodepessoa\\src\\main\\java\\br\\com\\cadastrodepessoa\\entity\\EnderecoEntity.java=1714849901381
