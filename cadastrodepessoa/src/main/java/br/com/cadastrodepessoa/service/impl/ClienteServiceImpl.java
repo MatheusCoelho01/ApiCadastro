@@ -6,6 +6,9 @@ import br.com.cadastrodepessoa.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import java.util.Objects;
+
 @Service
 public class ClienteServiceImpl implements ClienteService {
 
@@ -22,7 +25,7 @@ public class ClienteServiceImpl implements ClienteService {
     @Override
     public ClienteEntity atualizar(Long id, ClienteEntity pessoa) {
         ClienteEntity clienteEntity = clienteRepository.findById(id).get();
-        clienteEntity.setId(pessoa.getId() == null ? id : pessoa.getId());
+        clienteEntity.setId(Objects.isNull(pessoa.getId()) ? id : pessoa.getId());
         clienteEntity.setNome(pessoa.getNome());
         return clienteRepository.saveAndFlush(clienteEntity);
     }
